@@ -45,7 +45,7 @@ For Green LED's, use 2.2k. If battery life is your main concern and looking for 
 
 11q 2.2k or 750r 0805 Resistors, Depending if your using Green or Red/Orange respectively
 
-3q rcj-021 or rcj-011 for In-put (Depending on the revision you desire to build)
+3q rcj-021 or RCJ-011-SMT-TR for In-put (Depending on the revision you desire to build)
 
 1q 2032 Battery Holder (BS-3) Builders Choice or Tabbed 2032 Battery
 
