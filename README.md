@@ -23,7 +23,7 @@ Instruction & Led Notes are below.
 <img width="2857" height="2335" alt="07df7f0bd6bb358282788c5eefe3d99f" src="https://github.com/user-attachments/assets/94ed8102-2281-4a8d-9d96-a71f6f7fcec1" />
 <img width="2857" height="2335" alt="bf4e7d2d5024a95dc35168c8c90fa79a" src="https://github.com/user-attachments/assets/814c3ec9-57d7-449e-8425-c57eee6bc544" />
 
-# 90 Degree revision
+# 90 Degree revision ( Footprint on 8pin Din has been changed to allow for different or pulled connectors to be used)
 
 <img width="2857" height="2335" alt="c253820485e53e57230f474e9a0f9b38" src="https://github.com/user-attachments/assets/bc5dd22e-1551-43d9-8259-91ecc65d0a4b" />
 <img width="2857" height="2335" alt="4c57ac509fa4a1457e755e8da7dffdf5" src="https://github.com/user-attachments/assets/e6a8fddb-64e0-4d1e-b6be-d13af4cf4667" />
